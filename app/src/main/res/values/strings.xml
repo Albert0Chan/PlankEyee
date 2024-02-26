@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PlankEye</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="txt_remember_me">Remember Me</string>
+    <string name="txt_forgot_password">Forgot Password?</string>
+    <string name="txt_button_login">LOGIN</string>
+    <string name="txt_inserir_url">Insira a URL</string>
+    <string name="txt_button_verificar">VERIFICAR URL</string>
+    <string name="txt_ok_verificado">TUDO CERTO, SITE CONFIAVEL =)</string>
+    <string name="txt_ok_nao_verificado">CUIDADO SITE MALICIOSO!!!</string>
+</resources>
